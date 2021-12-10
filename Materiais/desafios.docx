@@ -1,0 +1,22 @@
+1) HTML | Desafio: favicon
+Você já reparou no ícone dos sites que aparecem na aba do nosso navegador? Esse é o chamado Favicon, que dá charme e identidade para a nossa página!
+
+Desafio: Criar um favico a sua escolha e incluí-lo para a página da Ada! Leia este tutorial para saber mais sobre esse tema e como fazer: https://tableless.com.br/tudo-sobre-favicon-logaster/
+Dica: Você pode usar uma ferramenta para converter qualquer imagem em um favicon!
+https://favicon.io/favicon-converter/
+
+2) CSS | Desafio: Pseudoclasses
+Uma pseudoclasse é usada para definir um estado especial de um elemento. O conceito parece estranho, mas você com certeza já viu a aplicação em muitas páginas por aí. Sabe quando você passa o mouse em cima de algum elemento e ele muda de estilo? Pronto! Pode apostar que foram usadas pseudoclasses! 
+
+Desafio: Criar um efeito de estilização a sua escolha para quando a visitante do seu site passar o mouse em cima do link no menu das divas da tecnologia (e somente para estes links!) ou quando esses elementos receberem foco (é o nome para quando navegamos pelos elementos de uma página utilizando a tecla “tab”). Isso é importante para a acessibilidade da página, garantindo que a navegação seja a mesma, não importa como o usuário a explore.
+Dica: Leia mais sobre pseudoclasses e como usá-las em https://www.w3schools.com/css/css_pseudo_classes.asp. Pode ser útil também pesquisar como aplicar mesmo estilo para dois seletores ao mesmo tempo! (sim, é possível!) 😉
+Quanto ao efeito, um bastante comum é mudar a cor da fonte ou mesmo criar uma cor de fundo! 
+
+3) JavaScript | Criando Variáveis
+Como você deve ter visto, existem várias boas práticas no universo do desenvolvimento! Elas servem basicamente para evitar erros, tornar o código mais limpo e inteligível, facilitando a manutenção dele e também melhorando o entendimento do seu código por outras pessoas desenvolvedoras. O dia a dia da pessoa programadora envolve muito trabalho em equipe - capacidades de comunicação e colaboração são fundamentais!O código da nossa página Web é bastante simples, então não precisamos reutilizar as informações, porém pensando no pilar de legibilidade do código, variáveis são importantes! 
+
+
+
+Se você reparar, demora um tempo para entender o que todo esse document.getElementById significa, né? Poderíamos ter usado variáveis para guardar o valor das informações que a visitante do nosso site enviou pelo formulário: campo nome, campo email e campo telefone!
+
+Desafio: crie as variáveis nome, email e telefone, e guarde seus respectivos valores.  Em seguida, substitua no código da função validaFormulario.
